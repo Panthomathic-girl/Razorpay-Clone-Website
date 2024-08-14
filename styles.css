@@ -1,0 +1,7 @@
+.card:hover{
+    box-shadow:5px 3px 7px black;
+}
+
+.circle-img:hover{
+    color: rgb(16, 143, 185);
+}
